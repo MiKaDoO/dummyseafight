@@ -1,0 +1,17 @@
+{
+  "name": "dummyseafight",
+  "version": "0.0.1",
+  "description": "dummy seafight engine ",
+  "main": "dummyseafight.js",
+  "scripts": {
+	"start":"node dummyseafight.js",
+  },
+  "keywords": [
+    "seafight",
+    "developper.com",
+    "tournoyons"
+  ],
+  "repository":"https://github.com/mikadoo/dummyseafight.git",
+  "author": "mickael metesreau",
+  "license": "BSD"
+}
